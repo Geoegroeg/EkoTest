@@ -1,3 +1,4 @@
+```mermaid
 graph TD;
     A[Put the sample in the section] --> B[Dip in xylene for 3min];
     B --> C[Transfer to xylene for 2min];
@@ -26,3 +27,4 @@ graph TD;
     Q --> R[100% ethanol for 2min];
     R --> S[100% xylene for 2min];
     S --> T[100% xylene for 2min];
+```
