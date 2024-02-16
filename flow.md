@@ -1,5 +1,5 @@
 ```mermaid
-graph TD;
+graph LR;
     A[Put the sample in the section] --> B[Dip in xylene for 3min];
     B --> C[Transfer to xylene for 2min];
     C --> D[Transfer to alcohol for 2min];
